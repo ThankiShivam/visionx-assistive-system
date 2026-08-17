@@ -219,4 +219,4 @@ ICT Engineer | Embedded Systems | Edge AI
 
 MIT License
 
-GitHub: https://github.com/shivamthanki-coder
+GitHub: https://github.com/ThankiShivam/visionx-assistive-system
